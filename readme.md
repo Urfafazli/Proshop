@@ -2,10 +2,6 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-<img src="./frontend/public/images/screens.png">
-
-
-
 ## Features
 
 - Full featured shopping cart
